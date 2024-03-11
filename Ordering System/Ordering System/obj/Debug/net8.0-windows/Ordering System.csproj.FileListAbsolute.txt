@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Ordering System\Ordering System\bin\Debug\net8.0-windows\Ordering System.exe
+C:\Users\admin\source\repos\Ordering System\Ordering System\bin\Debug\net8.0-windows\Ordering System.deps.json
+C:\Users\admin\source\repos\Ordering System\Ordering System\bin\Debug\net8.0-windows\Ordering System.runtimeconfig.json
+C:\Users\admin\source\repos\Ordering System\Ordering System\bin\Debug\net8.0-windows\Ordering System.dll
+C:\Users\admin\source\repos\Ordering System\Ordering System\bin\Debug\net8.0-windows\Ordering System.pdb
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering_System.Form1.resources
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.AssemblyInfo.cs
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.sourcelink.json
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.dll
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\refint\Ordering System.dll
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.pdb
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\Ordering System.genruntimeconfig.cache
+C:\Users\admin\source\repos\Ordering System\Ordering System\obj\Debug\net8.0-windows\ref\Ordering System.dll
